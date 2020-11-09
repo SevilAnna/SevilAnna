@@ -3,9 +3,9 @@
 
 - 🎓  I'm studying Industrial Engineering
 
-- 💻  I know some Python and HTML
+- 💻  I know Python, HTML & MATLAB
 
-- 🌱  I’m currently learning MATLAB
+- 🌱  I’m currently learning Java
 
 - 💬  Ask me about anything
 
