@@ -1,13 +1,15 @@
 &nbsp;🏗️&nbsp;&nbsp; GitHub page is under construction &nbsp;&nbsp;👷🔧    
-Repositories are set to private for the time being     
+Some repositories are set to private for the time being     
 <br>
 
 ## Hi! 👋 Sevil Anna here
 
 
-- 🎓  I'm studying Industrial Engineering
+- 🎓  I'm studying Industrial Engineering & interning @ Microsoft
 
-- 💻  I know Python, some HTML & MATLAB
+- 💻  I know Python, as well as some HTML & MATLAB
+
+- 💬  I'm interested in data science & product management
 
 - 🌱  I’m currently learning Tableau
 
